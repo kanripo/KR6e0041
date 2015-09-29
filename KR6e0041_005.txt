@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.027514
+#+DATE: 2015-09-28 22:56:21.116118
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6e0041_T_005-0680c> ¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五¶
+《大方廣佛華嚴經》卷第五¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -94,8 +93,7 @@
 寶為莖，毘瑠璃摩尼王寶為臺，無垢清淨閻¶
 浮檀金為葉，隨時芬馥白栴檀香沈水妙¶
 寶而為其藏，黃色映徹碼碯寶王以為其¶
-鬚，百萬摩尼寶莊嚴網羅布其上；凡所莊¶
-校，周圓無際，光榮四照，彌覆大海。百萬欲天¶
+鬚，百萬摩尼寶莊嚴網羅布其上；凡所莊校，周圓無際，光榮四照，彌覆大海。百萬欲天¶
 王普雨種種天寶、天華、天鬘、天香、天燒香、天¶
 塗香、天末香、天妙衣服、天幢幡蓋如雲而¶
 下；百萬龍王起大香雲，雨眾香水；百萬夜叉¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.357241
+#+DATE: 2015-09-28 22:56:21.423580
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6e0041_T_016-0732a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十六¶
+《大方廣佛華嚴經》卷第十六¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -206,7 +205,7 @@
 　起深清淨大慈悲，¶
 　普放雲網妙光明，
 　廣博如空極清淨。¶
-　我垂無垢𦟛圓臂，
+　我垂無垢[月*庸]圓臂，
 　百福妙相具莊嚴，¶
 　摩汝深信善財頂，
 　為汝演說菩提法。¶
