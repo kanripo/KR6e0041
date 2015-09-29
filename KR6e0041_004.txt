@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:15.987817
+#+DATE: 2015-09-28 22:56:30.195427
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6e0041_T_004-0675b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第四¶
+《大方廣佛華嚴經》卷第四¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -496,8 +495,7 @@
 求菩薩道，為欲成就一切智智，應當勤求真¶
 善知識。善男子！求善知識勿生疲懈，見善知¶
 識勿生厭足，於善知識所有教誨，當念隨¶
-順不應違逆，於善知識善巧方便，但應恭¶
-敬勿見過失。善男子！於此南方有一國土，¶
+順不應違逆，於善知識善巧方便，但應恭敬勿見過失。善男子！於此南方有一國土，¶
 名為勝樂；其國有山名曰妙峯，彼有比¶
 丘名吉祥雲，汝可往問菩薩云何學菩薩¶
 行，菩薩云何修菩薩行，乃至菩薩云何於普¶
