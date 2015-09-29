@@ -1,13 +1,14 @@
 #-*- mode: org; -*-
-#+DATE: 2015-09-28 22:56:15.862042
+#+DATE: 2015-09-28 22:56:33.662234
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 
 <pb:KR6e0041_T_000-0661a>¶
 
-[[file:KR6e0041_001.txt::001-0661a6][入不思議解脫境界普賢行願品]]
+[[file:KR6e0041_001.txt::001-0661a7][入不思議解脫境界普賢行願品¶]]
+[[file:KR6e0041_010.txt::010-0704c24][入不思議解脫境界普賢行願品¶]]
