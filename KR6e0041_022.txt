@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.531491
+#+DATE: 2015-09-28 22:56:23.633705
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0041_T_022-0760b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十二¶
+《大方廣佛華嚴經》卷第二十二¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -357,7 +356,7 @@
 　自在遊於解脫門，
 　廣度群迷無量眾。¶
 　觀察思惟一切法，
-　證入甚深諸法性，¶
+　證以甚深諸法性，¶
 　一切聖道普修行，
 　普化眾生令解脫。¶
 　天是最勝調御師，
