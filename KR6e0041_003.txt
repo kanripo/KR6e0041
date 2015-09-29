@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:15.958645
+#+DATE: 2015-09-28 22:56:35.439810
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0041_T_003-0670c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《大方廣佛華嚴經》卷第三¶
+《大方廣佛華嚴經》卷第三¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -46,7 +45,7 @@
 同法界，最勝覺解大菩薩眾莊嚴道場，遍一¶
 切處，盡未來際，轉於法輪，無間成熟，相續不¶
 絕法門名句。佛子！此十法句以為其首，有不¶
-可說佛剎極微塵數清淨名句微妙法門，皆¶
+可說佛剎極微塵數清淨名句微妙法品，皆¶
 是如來智慧境界，非我及汝所能證知。」
 
 爾時，¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.656841
+#+DATE: 2015-09-28 22:56:36.087259
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0041_T_026-0777c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十六¶
+《大方廣佛華嚴經》卷第二十六¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -445,7 +444,7 @@
 嵐毘尼園示現初生神變之時，亦見如來於¶
 三千大千世界百億四天下閻浮提中嵐毘尼¶
 園示現初生種種神變；亦見於三千大千世¶
-界極微塵數佛剎，亦見於百佛世界極微塵¶
+界極微塵數佛利，亦見於百佛世界極微塵¶
 數佛剎，乃至十方一切世界極微塵數佛剎，示¶
 現初生種種神變；亦見在於十方世界極微¶
 塵中，所有種種無量佛剎，一一皆現受生、誕¶

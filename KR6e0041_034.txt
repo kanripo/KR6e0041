@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.884618
+#+DATE: 2015-09-28 22:56:36.323128
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0041_T_034-0815b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十四¶
+《大方廣佛華嚴經》卷第三十四¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -86,7 +85,7 @@
 
 「復次，善男子！菩薩具十種法，則得圓滿露地¶
 而坐。何等為十？一者、隨寒熱雨，不擇溫涼，二¶
-者、不依牆壁，三者、不依樹林，四者、不依草𧂐，
+者、不依牆壁，三者、不依樹林，四者、不依草[卄/積]，
 <pb:KR6e0041_T_034-0816b>¶
 五者、不依危險，六者、寒不覆障，七者、雨不覆¶
 蓋，八者、熱不覆障，九者、風不覆障，十者、若有¶
