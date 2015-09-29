@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.303535
+#+DATE: 2015-09-28 22:56:19.618409
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6e0041_T_014-0723a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十四¶
+《大方廣佛華嚴經》卷第十四¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -285,8 +284,7 @@
 聞法歡喜香、發心念佛香、證解法門香、聖所¶
 受用香、一切菩薩差別香、一切菩薩地位香。¶
 如是等香及調和法，形相生起，出現成就，¶
-清淨安隱，方便境界，威力業用，所從根本，隨¶
-處、隨人種類差別，如是一切我皆了知。善¶
+清淨安隱，方便境界，威力業用，所從根本，隨處、隨人種類差別，如是一切我皆了知。善¶
 男子！人間有香名曰龍藏，因龍鬪生；若燒¶
 一丸大如油麻，即能興起大香焰雲，猶如帝
 <pb:KR6e0041_T_014-0726a>¶

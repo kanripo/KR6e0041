@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.126911
+#+DATE: 2015-09-28 22:56:19.449787
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6e0041_T_008-0695c> 
 #+PROPERTY: JUAN 8
 ¶
-
- 《大方廣佛華嚴經》卷第八¶
+《大方廣佛華嚴經》卷第八¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -192,8 +191,7 @@
 檀樹其身洪直，枝條垂布，華葉繁密，偃蓋成¶
 蔭。時，彼仙人在此樹下縈髮為髻，藉以香¶
 草；十千仙眾，前後圍遶。其諸仙人，或衣鹿¶
-皮，或衣樹皮，或編細草種種衣服，髻環垂¶
-鬢，瞻仰而住。善財見已，往詣其所，五體投¶
+皮，或衣樹皮，或編細草種種衣服，髻環垂鬢，瞻仰而住。善財見已，往詣其所，五體投¶
 地，深心頂禮，作如是言：「我今得遇真善知識。」¶
 
 復作是念：「善知識者則是趣向一切智門，令¶
