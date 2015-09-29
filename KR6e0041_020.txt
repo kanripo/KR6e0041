@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.475144
+#+DATE: 2015-09-28 22:56:28.882221
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0041_T_020-0750c> 
 #+PROPERTY: JUAN 20
 ¶
-
- 《大方廣佛華嚴經》卷第二十¶
+《大方廣佛華嚴經》卷第二十¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -273,8 +272,7 @@
 得親近一切如來；願得承事一切善友，悉令¶
 歡喜；願得供養一切如來，悉令遍滿；願於念¶
 念中修菩薩行，增一切智無有間斷；發如是¶
-等十佛剎極微塵數願海，成就普賢所有大¶
-願。時，彼如來復為其女開示演說發心已¶
+等十佛剎極微塵數願海，成就普賢所有大願。時，彼如來復為其女開示演說發心已¶
 來所種善根、所修妙行、所得大果，令其開¶
 悟，甚深信解，成就如來圓滿廣大所有願¶
 海，一心趣向一切智位。¶

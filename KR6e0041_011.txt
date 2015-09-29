@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.211524
+#+DATE: 2015-09-28 22:56:28.619485
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0041_T_011-0709b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十一¶
+《大方廣佛華嚴經》卷第十一¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -480,8 +479,7 @@
 
 「復次，我王足塗香油具十功德：一、能除風疾，¶
 二、身心輕利，三、耳目聰明，四、增益精氣，五、念¶
-無忘失，六、減省昏睡，七、眠夢吉祥，八、延其¶
-壽命，九、除諸垢穢，十、不生眾疾。¶
+無忘失，六、減省昏睡，七、眠夢吉祥，八、延其壽命，九、除諸垢穢，十、不生眾疾。¶
 
 「復次，我王擐妙革屣有十功德：一、足趺柔軟，¶
 二、身觸輕安，三、行步有力，四、益其精氣，五、¶
