@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0041_T_031-0801a> ¶
 #+PROPERTY: JUAN 31
 ¶
@@ -372,7 +372,7 @@
 他(上)字時，能甚深入般若波羅蜜門，名真如¶
 平等無分別藏。唱惹(上)字時，能甚深入般若¶
 波羅蜜門，名遍入世間海遊行清淨。唱娑嚩¶
-(二合)字時，能甚深入般若波羅蜜門，名普念諸¶
+(無我反二合)字時，能甚深入般若波羅蜜門，名普念諸¶
 佛一切莊嚴。唱駄字時，能甚深入般若波羅¶
 蜜門，名微細觀察一切法聚。唱捨(上尸我反)字
 <pb:KR6e0041_T_031-0804c>¶

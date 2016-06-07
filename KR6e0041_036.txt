@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0041_T_036-0826b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
@@ -51,7 +51,7 @@
 
 「善男子！¶
 如有藥樹，名珊陀那，有取其皮以塗瘡者，瘡¶
-即除愈，平復如故，亦無𤻷痕，然其樹皮，隨¶
+即除愈，平復如故，亦無𤻷[病-丙+(一/艮)]，然其樹皮，隨¶
 取隨生，終不可盡；菩薩摩訶薩從菩提心生¶
 大智樹亦復如是，若有得見而生信者，煩惱¶
 業瘡悉得銷滅，一切智樹初無所損。
