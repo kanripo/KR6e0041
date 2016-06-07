@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:15.895754
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:43
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
@@ -16,7 +16,7 @@ No.293[Fasc.1-39=Nos.278(34),279¶
  《大方廣佛華嚴經》卷第一¶
 罽賓國三藏般若奉　詔譯¶
 
-入不思議解脫境界普賢行願品
+* 入不思議解脫境界普賢行願品
 :PROPERTIES:
 :head: 入不思議解脫境界普賢行願品
 :END:
