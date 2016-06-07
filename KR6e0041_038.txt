@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.999396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:43
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0041_T_038-0835a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 38
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十八¶
+《大方廣佛華嚴經》卷第三十八¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -116,8 +115,7 @@
 理修行為家法，諸地善法為家處，得諸忍法¶
 為家族，大願現前為家教，以清淨智滿足諸¶
 行為順家法，勸發勤修不斷大乘為紹家業，¶
-法水灌頂一生所繫菩薩為王太子，成就廣¶
-大真實菩提為淨家族。善男子！菩薩如是超¶
+法水灌頂一生所繫菩薩為王太子，成就廣大真實菩提為淨家族。善男子！菩薩如是超¶
 凡夫地，入菩薩位；生如來家，住佛種性；能修¶
 諸行，不斷三寶；善能守護菩薩種族，淨菩薩¶
 種；生處尊勝，於諸世間離生過惡；一切天人¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.884618
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:43
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0041_T_034-0815b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十四¶
+《大方廣佛華嚴經》卷第三十四¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -586,8 +585,8 @@
 　諸佛之長子，
 　聖德慈氏尊，¶
 　我今恭敬禮，
-　願垂顧念我。」
+　願垂顧念我。」」
 #+END_VERSE
-」¶
+¶
 《大方廣佛華嚴經》卷第三十四¶
 

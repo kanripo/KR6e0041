@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.056143
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:43
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0041_T_006-0685c> ¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第六¶
+《大方廣佛華嚴經》卷第六¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
@@ -261,7 +260,7 @@
 
 「善男子！佛說諸法無生無滅，¶
 亦無三世，何以故？如自心現五塵境界，本無¶
-有故；有無諸法本不生故，如兔角等；聖者¶
+有故；有無諸法本不生故，如兔角等兔角等；聖者¶
 自悟境界如是。善男子！愚癡凡夫妄起分別，¶
 無中執有，有中執無，取阿賴耶種種行相，墮¶
 於生滅二種見中，不了自心而起分別。善男¶

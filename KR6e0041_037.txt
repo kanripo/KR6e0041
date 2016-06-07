@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:16.974824
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:43
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T10n0293
 #+PROPERTY: ID KR6e0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 293
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0041_T_037-0831b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十七¶
+《大方廣佛華嚴經》卷第三十七¶
 ¶
 罽賓國三藏般若奉　詔譯¶
 入不思議解脫境界普賢行願品¶
